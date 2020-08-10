@@ -9,8 +9,10 @@ dependencies:
   - graph-tool
   - louvain
   - numpy
+  - scipy
   - tqdm
   - matplotlib
+  - pandas
   - pip
   - pip:
     - infomap
