@@ -18,4 +18,5 @@ dependencies:
     - infomap
     - helios
     - jgf
+    - h5py
 
