@@ -19,4 +19,6 @@ dependencies:
     - helios
     - jgf
     - h5py
+    - nibabel
+    - nilearn
 
